@@ -18,7 +18,7 @@
     About me
 </h2>
 
-<p>I'm <strong>Arseny Markov</strong>, a <strong>Front-end developer</strong> living in <strong>Tula, RU</strong>.</p>
+<p>I'm <strong>Arseniy Markov</strong>, a <strong>Front-end developer</strong> living in <strong>Tula, RU</strong>.</p>
 <p>I am interested in web and programming in general. I am constantly expanding my horizons in this.</p>
 <p>There is no limit to perfection.</p>
 <p>I like to talk about technologies and share my experience with everyone around me. Also, I enjoy good humor and good code...</p>
