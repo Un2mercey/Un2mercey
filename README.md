@@ -4,7 +4,7 @@
 
 <p>
     <a href="https://twitter.com/unmerceys" rel="nofollow"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" style="max-width:100%;"></a>
-    <a href="https://t.me/ArsenyMarkov" rel="nofollow"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" style="max-width:100%;"></a>
+    <a href="https://t.me/ArseniyMarkov" rel="nofollow"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" style="max-width:100%;"></a>
     <a href="https://www.linkedin.com/in/arseny-markov-a918a61ab?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BFMGAcNQaSxmv8ZIn0A9ZrQ%3D%3D" rel="nofollow"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="max-width:100%;"></a>
     <a href="https://github.com/Un2mercey/"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="max-width:100%;"></a>
     <a href="https://medium.com/@zamberg42" rel="nofollow"><img alt="Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" style="max-width:100%;"></a>
