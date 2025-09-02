@@ -19,7 +19,7 @@
 </h2>
 
 <p>I'm <strong>Arseniy Markov</strong>, a <strong>Senior Frontend developer</strong> living in <strong>Moscow, Russia</strong>.</p>
-<p>, I'm experienced in building scalable web applications and custom libraries. I collaborate closely with backend engineers, QA, designers, and product managers to deliver high-performance, user-friendly interfaces for complex, data-intensive scenarios. Passionate about clean design systems, clear acceptance criteria, and team rituals that drive both quality and productivity.</p>
+<p>I'm experienced in building scalable web applications and custom libraries. I collaborate closely with backend engineers, QA, designers, and product managers to deliver high-performance, user-friendly interfaces for complex, data-intensive scenarios. Passionate about clean design systems, clear acceptance criteria, and team rituals that drive both quality and productivity.</p>
 <p>I'm interested in web and programming in general. I am always constantly expanding my horizons in this.</p>
 <p>There is no limit to perfection.</p>
 <p>I like to talk about technologies and share my experience with everyone around me. Also, I enjoy good humor and good code...</p>
